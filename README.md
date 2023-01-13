@@ -1,4 +1,5 @@
 # Breakout_KMM
+A game built using KMM for both Android and iOS!
 
 # :camera_flash: Screenshots from the app
 
