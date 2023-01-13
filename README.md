@@ -10,5 +10,10 @@
 
 <img src="https://user-images.githubusercontent.com/65572088/212257019-956b862a-0119-4977-8448-fcc6e65ae8dd.png" width="260">
 
+## :camera_flash: Recording from both the apps
+
+[![Watch the video](https://user-images.githubusercontent.com/65572088/212258060-013fa78b-cf5c-49c8-b6bc-5ed5d53a594e.png)](https://drive.google.com/file/d/1GesPTgzQBC0qYo3VD5o1eIscSZ59yLkB/view?usp=share_link)
+
+
 # LICENSE
 [License](LICENSE)
